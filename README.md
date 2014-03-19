@@ -1,2 +1,2 @@
-snow_0
+This is a testing project.
 ======
